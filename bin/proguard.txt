@@ -1,0 +1,291 @@
+# view res/layout/appuninstall.xml #generated:21
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/view_adv_roll.xml #generated:6
+-keep class cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:438
+-keep class com.baidu.location.f { <init>(...); }
+
+# view res/layout/image_detail_pager.xml #generated:6
+-keep class com.desrcibe.bigimageview.HackyViewPager { <init>(...); }
+
+# view res/layout/slidingmenumain.xml #generated:2
+-keep class com.slidingmenu.lib.SlidingMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.ta.TAApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:347
+-keep class com.ta.util.netstate.TANetworkStateReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:398
+-keep class com.tencent.android.tpush.XGPushActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:369
+-keep class com.tencent.android.tpush.XGPushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:412
+-keep class com.tencent.android.tpush.rpc.XGRemoteService { <init>(...); }
+
+# view AndroidManifest.xml #generated:406
+-keep class com.tencent.android.tpush.service.XGPushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.zhidian.wifibox.activity.AboutUsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:129
+-keep class com.zhidian.wifibox.activity.ActivitActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.zhidian.wifibox.activity.AppDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.zhidian.wifibox.activity.AppUninstallActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.zhidian.wifibox.activity.AppUpdateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.zhidian.wifibox.activity.CleanMasterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.zhidian.wifibox.activity.DownloadManagerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.zhidian.wifibox.activity.FeedbackActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.zhidian.wifibox.activity.FreezeAppActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.zhidian.wifibox.activity.HTMLGameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.zhidian.wifibox.activity.ImagePagerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class com.zhidian.wifibox.activity.ImprintActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.zhidian.wifibox.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class com.zhidian.wifibox.activity.ManagerPicDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:338
+-keep class com.zhidian.wifibox.download.AppActionReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.zhidian.wifibox.download.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.zhidian.wifibox.file.fragment.FileManagerActivity { <init>(...); }
+
+# view res/layout/titled_fragment_tab_activity.xml #generated:36
+-keep class com.zhidian.wifibox.file.fragment.ui.TitleIndicator { <init>(...); }
+
+# view res/layout/titled_fragment_tab_activity.xml #generated:16
+-keep class com.zhidian.wifibox.file.fragment.ui.ViewPagerCompat { <init>(...); }
+
+# view res/layout/search_.xml #generated:143
+# view res/layout/view_detail_evaluate.xml #generated:24
+-keep class com.zhidian.wifibox.pulldownlistview.PullDownRefreshView { <init>(...); }
+
+# view AndroidManifest.xml #generated:245
+-keep class com.zhidian.wifibox.receiver.ActionMediaEjectReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:215
+-keep class com.zhidian.wifibox.receiver.AnyDataStateReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:305
+-keep class com.zhidian.wifibox.receiver.BakchatPcmgrNorify { <init>(...); }
+
+# view AndroidManifest.xml #generated:220
+-keep class com.zhidian.wifibox.receiver.BluetoothReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:170
+-keep class com.zhidian.wifibox.receiver.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:333
+-keep class com.zhidian.wifibox.receiver.CheckRunningAppReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:185
+-keep class com.zhidian.wifibox.receiver.ConnectReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:210
+-keep class com.zhidian.wifibox.receiver.ConnectivityChangeReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:235
+-keep class com.zhidian.wifibox.receiver.DateChangedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.zhidian.wifibox.receiver.DisconnectReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:316
+-keep class com.zhidian.wifibox.receiver.EntryReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:322
+-keep class com.zhidian.wifibox.receiver.FileDownloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:311
+-keep class com.zhidian.wifibox.receiver.InstallReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:280
+-keep class com.zhidian.wifibox.receiver.MainReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:260
+-keep class com.zhidian.wifibox.receiver.MediaCheckingReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:265
+-keep class com.zhidian.wifibox.receiver.MediaEjectReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:255
+-keep class com.zhidian.wifibox.receiver.MediaRemovedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:250
+-keep class com.zhidian.wifibox.receiver.MediaUnmountedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:285
+-keep class com.zhidian.wifibox.receiver.MountReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:270
+-keep class com.zhidian.wifibox.receiver.MscreenOnReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:195
+-keep class com.zhidian.wifibox.receiver.NewOutgoingCallReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:190
+-keep class com.zhidian.wifibox.receiver.PhoneStateReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:328
+-keep class com.zhidian.wifibox.receiver.ReqReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:363
+-keep class com.zhidian.wifibox.receiver.ScanReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:299
+-keep class com.zhidian.wifibox.receiver.ScoAudioReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:275
+-keep class com.zhidian.wifibox.receiver.ScreenOffReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:175
+-keep class com.zhidian.wifibox.receiver.SimReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:205
+-keep class com.zhidian.wifibox.receiver.StateChangeReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:230
+-keep class com.zhidian.wifibox.receiver.TimeChangedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:240
+-keep class com.zhidian.wifibox.receiver.TimezoneChangedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:225
+-keep class com.zhidian.wifibox.receiver.UserPresentReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:200
+-keep class com.zhidian.wifibox.receiver.WifiStateChangedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:429
+-keep class com.zhidian.wifibox.receiver.XGPushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.zhidian.wifibox.service.ADTService { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class com.zhidian.wifibox.service.CrashHandleService { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.zhidian.wifibox.service.InternetTimeService { <init>(...); }
+
+# view AndroidManifest.xml #generated:162
+-keep class com.zhidian.wifibox.service.MusicService { <init>(...); }
+
+# view res/layout/view_adv_roll.xml #generated:2
+-keep class com.zhidian.wifibox.view.BannerView { <init>(...); }
+
+# view res/layout/categoriescontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.CategoriesContainer { <init>(...); }
+
+# view res/layout/view_head_comment.xml #generated:2
+-keep class com.zhidian.wifibox.view.CommentView { <init>(...); }
+
+# view res/layout/downloadcontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.DownloadManagerContainer { <init>(...); }
+
+# view res/layout/emptycontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.EmptyContainer { <init>(...); }
+
+# view res/layout/emptycontainer.xml #generated:7
+-keep class com.zhidian.wifibox.view.EmptyNavigationBar { <init>(...); }
+
+# view res/layout/extracontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.ExtraContainer { <init>(...); }
+
+# view res/layout/homefeaturecontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.HomeFeatureContainer { <init>(...); }
+
+# view res/layout/view_listview_footer.xml #generated:2
+-keep class com.zhidian.wifibox.view.ListViewSearchFooterView { <init>(...); }
+
+# view res/layout/frame_menu.xml #generated:2
+-keep class com.zhidian.wifibox.view.MainDrawer { <init>(...); }
+
+# view res/layout/managercontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.ManagerContainer { <init>(...); }
+
+# view res/layout/list_item_image_children.xml #generated:8
+-keep class com.zhidian.wifibox.view.MyGridView { <init>(...); }
+
+# view res/layout/activity_appdetail.xml #generated:76
+-keep class com.zhidian.wifibox.view.MyViewPager { <init>(...); }
+
+# view res/layout/navigatetionbar.xml #generated:2
+-keep class com.zhidian.wifibox.view.NavigationBar { <init>(...); }
+
+# view res/layout/rankingcontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.RankingContainer { <init>(...); }
+
+# view res/layout/cleanmaster.xml #generated:102
+# view res/layout/cleanmaster.xml #generated:136
+# view res/layout/cleanmaster.xml #generated:182
+# view res/layout/cleanmaster.xml #generated:228
+# view res/layout/cleanmaster.xml #generated:274
+-keep class com.zhidian.wifibox.view.RotationView { <init>(...); }
+
+# view res/layout/frame_menu.xml #generated:162
+# view res/layout/frame_menu.xml #generated:79
+-keep class com.zhidian.wifibox.view.RoundProgressBar { <init>(...); }
+
+# view res/layout/view_search_topic.xml #generated:2
+-keep class com.zhidian.wifibox.view.SearchTopicView { <init>(...); }
+
+# view res/layout/search_.xml #generated:2
+-keep class com.zhidian.wifibox.view.SearchView { <init>(...); }
+
+# view res/layout/speedingdownloadcontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.SpeedingDownloadContainer { <init>(...); }
+
+# view res/layout/gridview_item_image_children.xml #generated:8
+-keep class com.zhidian.wifibox.view.StickyImageView { <init>(...); }
+
+# view res/layout/activity_appdetail.xml #generated:108
+-keep class com.zhidian.wifibox.view.TextProgressBar { <init>(...); }
+
+# view res/layout/topiccontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.TopicContainer { <init>(...); }
+
+# view res/layout/topiccontentcontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.TopicContentContainer { <init>(...); }
+
+# view res/layout/updatecontainer.xml #generated:2
+-keep class com.zhidian.wifibox.view.UpdateContainer { <init>(...); }
+
+# view res/layout/activity_picture_detail.xml #generated:14
+-keep class com.zhidian.wifibox.view.stickygrid.StickyGridHeadersGridView { <init>(...); }
+
+# view AndroidManifest.xml #generated:142
+-keep class com.zhidian.wifibox.wxapi.WXEntryActivity { <init>(...); }
+
